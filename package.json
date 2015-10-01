@@ -1,0 +1,26 @@
+{
+  "name": "prerender-custom",
+  "version": "1.0.0",
+  "description": "Prerender server",
+  "main": "index.js",
+  "dependencies": {
+    "prerender": "^3.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaygurov/prerender.git"
+  },
+  "keywords": [
+    "prerender"
+  ],
+  "author": "amaygurov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaygurov/prerender/issues"
+  },
+  "homepage": "https://github.com/amaygurov/prerender#readme"
+}
