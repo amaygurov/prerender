@@ -2,7 +2,7 @@
   "name": "prerender-custom",
   "version": "1.0.0",
   "description": "Prerender server",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "prerender": "^3.21.0"
   },
